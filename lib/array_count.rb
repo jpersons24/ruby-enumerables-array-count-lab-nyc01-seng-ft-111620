@@ -14,4 +14,4 @@ def count_empty_strings(array)
   end
 end
 
-count_empty_strings(array)
+p count_empty_strings(array)
